@@ -21,4 +21,4 @@ API REST para gestión de clientes con operaciones CRUD. Desarrollada para la ac
 1. **Clonar el repositorio**
    ```bash
    git clone https://github.com/jcbz2010-prog/tlo-301-s9.git
-   cd api-clientes-crud
+   cd tlo-301-s9
