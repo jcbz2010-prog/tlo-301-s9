@@ -25,8 +25,8 @@ API REST para gestión de clientes con operaciones CRUD (Crear, Leer, Actualizar
 
 ### 1. Clonar el repositorio
 ```bash
-git clone https://github.com/TU-USUARIO/api-clientes-crud.git
-cd api-clientes-crud
+git clone https://github.com/jcbz2010-prog/tlo-301-s9.git
+cd tlo-301-s9
 ```
 
 ### 2. Instalar dependencias
@@ -91,21 +91,29 @@ El archivo `API clientes -CRUD.postman_collection.json` contiene todos los endpo
 
 ## Estructura del proyecto
 
-```
-api-clientes-crud/
+TLO-301-S9/
+│
 ├── config/
 │   └── db.js
+│
 ├── controllers/
 │   └── clienteController.js
+│
 ├── middleware/
 │   └── errorHandler.js
+│
+├── node_modules/
+│
+├── postman/
+│   └── API clientes -CRUD.postman_collection.json
+│
 ├── routes/
 │   └── clienteRoutes.js
-├── postman/
-│   └── clientes-api-collection.json
-├── database.sql
+│
 ├── .env
+├── .gitignore
+├── database.sql
+├── package-lock.json
 ├── package.json
-├── server.js
-└── README.md
-```
+├── README.md
+└── server.js
