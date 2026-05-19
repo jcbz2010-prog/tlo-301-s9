@@ -91,6 +91,7 @@ El archivo `API clientes -CRUD.postman_collection.json` contiene todos los endpo
 
 ## Estructura del proyecto
 
+```
 TLO-301-S9/
 │
 ├── config/
@@ -117,3 +118,4 @@ TLO-301-S9/
 ├── package.json
 ├── README.md
 └── server.js
+```
